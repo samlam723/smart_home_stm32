@@ -1,6 +1,11 @@
-# smart_home_stm32
+# Smart home STM32 project
 
-•	Fingerprint unlock 
+Click the image below to watch the project demo
+[![alt_text](https://github.com/samlam723/smart_home_stm32/blob/main/project_setup.jpg)](https://youtu.be/e6InoIaJaS0)
+
+Major Functions
+1. Fingerprint unlock 
+2. App control over unlock, 
 •	Unlock, lighting and fan control through Wi-Fi signal in an app (ESP8266)
 •	Unlock method: pin password with LCD Touch screen
 •	Real Time display of incomer’s picture (OV7725 camera)
